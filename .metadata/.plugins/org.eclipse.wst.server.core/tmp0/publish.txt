@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Jul 23 07:30:01 UTC 2023
+org.eclipse.jst.jee.server\:/binary\:/home/vigneshta95gmai/eclips-fly/FlyAway/src/main/webapp/WEB-INF/lib/spring-web-5.1.6.RELEASE.jar=WEB-INF/lib/spring-web-5.1.6.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:/home/vigneshta95gmai/.m2/repository/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE.jar=WEB-INF/lib/spring-web-5.1.6.RELEASE.jar
