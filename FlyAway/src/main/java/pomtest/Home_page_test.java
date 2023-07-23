@@ -59,22 +59,22 @@ public class Home_page_test {
 //		PageFactory.initElements(driver, Registration_page.class);
 //		
 //		Thread.sleep(3000);
-//		Registration_page.email.sendKeys("kalpanakutty49@gmail.com");
+//		Registration_page.email.sendKeys("vigneshta95@gmail.com");
 //		
 //		Thread.sleep(3000);
-//		Registration_page.password.sendKeys("12345");
+//		Registration_page.password.sendKeys("VI944@322a");
 //		
 //		Thread.sleep(3000);
-//		Registration_page.cnfpassword.sendKeys("12345");
+//		Registration_page.cnfpassword.sendKeys("VI944@322a");
 //		
 //		Thread.sleep(3000);
-//		Registration_page.name.sendKeys("kalpanakutty");
+//		Registration_page.name.sendKeys("vignesh");
 //		
 //		Thread.sleep(3000);
-//		Registration_page.address.sendKeys("322s,kovaipudhur");
+//		Registration_page.address.sendKeys("smt hall ramohalli");
 //		
 //		Thread.sleep(3000);
-//		Registration_page.city.sendKeys("coimbatore");
+//		Registration_page.city.sendKeys("benglore");
 		
 //		Thread.sleep(3000);
 //		Registration_page.signupbutton.click();
@@ -85,10 +85,10 @@ public class Home_page_test {
 //		Register_confirm.login.click();
 		
 		Thread.sleep(3000);
-		Login_page.Loginemail.sendKeys("kalpanakutty49@gmail.com");
+		Login_page.Loginemail.sendKeys("vigneshta95@gmail.com");
 		
 		Thread.sleep(3000);
-		Login_page.Loginpassword.sendKeys("12345");
+		Login_page.Loginpassword.sendKeys("VI944@322a");
 		
 		Thread.sleep(3000);
 		Login_page.Loginbutton.click();
